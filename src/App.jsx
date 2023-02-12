@@ -10,7 +10,7 @@ function App() {
       <div>
         <img src="/us.jpg" className="img2" alt="Us at museum" />
       </div>
-      <h1>Happy 8 months, Mahal!</h1>
+      <h1>Happy 9 months, Mahal!</h1>
       <img src="/me.jpg" className="img1" alt="Me + 3 hearts" />
       <div className="card">
         <button className='love' onClick={() => setCount((count) => count +  598435)}>
